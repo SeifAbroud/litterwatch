@@ -21,27 +21,7 @@ Drop an image into your watched folder — LitterWatch detects it, uploads it to
 
 ## Preview
 
-```
-KILLOXS × LITTERBOX                              ● LIVE
-
-WATCH FOLDER
-[ C:/Users/you/Screenshots                  ] [ BROWSE ]
-
-EXPIRY
-[ 1h ]  [ 12h ]  [ 24h ]  [■ 72h ]
-
-[ ▶  START ]  [ ■  STOP ]
-
-OK  3    FAIL  0    QUEUED  0
-
-LOG
-[14:02:11] INIT C:/Users/you/Screenshots
-[14:02:11] CONF expiry=72h
-[14:02:44] SCAN screenshot_001.png
-[14:02:44] UP   screenshot_001.png  [72h]
-[14:02:46] OK   https://litter.catbox.moe/xxxxxx.png
-[14:02:46] CLIP link copied
-```
+<img width="579" height="685" alt="image" src="https://github.com/user-attachments/assets/6ba6db8e-95d1-48de-9b93-5aeb80f7522c" />
 
 ---
 
@@ -49,6 +29,18 @@ LOG
 
 - Windows 10 / 11
 - Python 3.10 or later — [python.org](https://www.python.org/downloads/)
+
+---
+
+## Download
+
+Don't want to deal with Python or building anything? Grab the latest pre-built release:
+
+**[⬇ Download KilloxsLitterbox.exe — Latest Release](https://github.com/killoxs/litterwatch/releases/latest)**
+
+Just download, double-click, and run. No Python, no install, no setup.
+
+> The exe is built from the source in this repo using PyInstaller. You can verify this yourself by running `build.bat`.
 
 ---
 
