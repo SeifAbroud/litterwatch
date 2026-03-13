@@ -36,7 +36,7 @@ Drop an image into your watched folder — LitterWatch detects it, uploads it to
 
 Don't want to deal with Python or building anything? Grab the latest pre-built release:
 
-**[⬇ Download KilloxsLitterbox.exe — Latest Release](https://github.com/killoxs/litterwatch/releases/latest)**
+**[⬇ Download KilloxsLitterbox.exe — Latest Release](https://github.com/SeifAbroud/litterwatch/releases)**
 
 Just download, double-click, and run. No Python, no install, no setup.
 
